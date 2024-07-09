@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arsenal+SC:ital,wght@0,400;0,700;1,400;1,700&family=Berkshire+Swash&display=swap');
+
 nav > ul > li{
     
     display: inline;
@@ -13,4 +16,10 @@ footer{
 }
 main{
     margin: 30px;
+}
+p{
+    font-family: "Arsenal SC", sans-serif;
+}
+h2{
+    font-family: "Berkshire Swash", serif;
 }
